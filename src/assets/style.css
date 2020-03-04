@@ -22,7 +22,7 @@
 
 .title {
   position: relative;
-  background-color: rgba(0, 0, 0, 1);
+  background-color: rgb(5, 5, 4);
   color: rgb(255, 255, 255);
   padding: 20px;
   font-size: 1.8em;
@@ -47,7 +47,7 @@
 .answerBtn {
   position: relative;
   padding: 10px;
-  background-color: rgb(250, 151, 37);
+  background-color: rgb(22, 14, 131);
   display: inline-block;
   margin: 10px;
   outline: none;
